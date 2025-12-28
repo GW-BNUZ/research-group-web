@@ -1,7 +1,7 @@
 
 prof-a:
-    display_name: "xxx"
-    role: Phd. Student
+    display_name: "Prof A"
+    role: faculty
 
 prof-b:
     display_name: "Prof B"
@@ -12,11 +12,11 @@ prof-c:
     role: faculty
 
 profx:
-    display_name: "Professor X"
+    display_name: "Professor Zhu Yi"
     webpage: "http://en.wikipedia.org/wiki/Professor_X"
     github: profx
     role: faculty
-    image: /img/people/prof-x.png
+    image: /img/people/yi.png
     bio: Professor
 
 scott:
