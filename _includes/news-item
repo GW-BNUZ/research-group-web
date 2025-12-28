@@ -1,0 +1,7 @@
+<div class="news-item">
+  <h3>{{ post.title }}</h3>
+  <p class="meta">{{ post.date | date: "%Y-%m-%d" }}</p>
+  <div class="content">
+    {{ post.excerpt }}
+  </div>
+</div>
